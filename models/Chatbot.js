@@ -12,4 +12,7 @@ const Chatbot = sequelize.define('Chatbot', {
   },
 });
 
+
+
+
 module.exports = Chatbot;
